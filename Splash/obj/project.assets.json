@@ -842,9 +842,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\POCProject\\POCProject\\POCProject.csproj",
-      "projectName": "POCProject",
-      "projectPath": "C:\\POCProject\\POCProject\\POCProject.csproj",
+      "projectUniqueName": "C:\\POCProject\\POCProject\\Splash.csproj",
+      "projectName": "Splash",
+      "projectPath": "C:\\POCProject\\POCProject\\Splash.csproj",
       "packagesPath": "C:\\Users\\Bindu_Gangalam\\.nuget\\packages\\",
       "outputPath": "C:\\POCProject\\POCProject\\obj\\",
       "projectStyle": "PackageReference",
