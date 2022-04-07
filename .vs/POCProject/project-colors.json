@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e3a78e6-8b75-4c74-9933-498900e0c618": {
+      "ProjectGuid": "5e3a78e6-8b75-4c74-9933-498900e0c618",
+      "DisplayName": "POCProject",
+      "ColorIndex": 0
+    },
+    "f366d85d-43e7-4275-b0f9-7af7db3f4ca4": {
+      "ProjectGuid": "f366d85d-43e7-4275-b0f9-7af7db3f4ca4",
+      "DisplayName": "Member.Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

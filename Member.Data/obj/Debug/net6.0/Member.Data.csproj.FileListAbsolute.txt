@@ -1,0 +1,12 @@
+C:\POCProject\Member.Data\obj\Debug\net6.0\Member.Data.csproj.AssemblyReference.cache
+C:\POCProject\Member.Data\obj\Debug\net6.0\Member.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\POCProject\Member.Data\obj\Debug\net6.0\Member.Data.AssemblyInfoInputs.cache
+C:\POCProject\Member.Data\obj\Debug\net6.0\Member.Data.AssemblyInfo.cs
+C:\POCProject\Member.Data\obj\Debug\net6.0\Member.Data.csproj.CoreCompileInputs.cache
+C:\POCProject\Member.Data\bin\Debug\net6.0\Member.Data.deps.json
+C:\POCProject\Member.Data\bin\Debug\net6.0\Member.Data.dll
+C:\POCProject\Member.Data\bin\Debug\net6.0\ref\Member.Data.dll
+C:\POCProject\Member.Data\bin\Debug\net6.0\Member.Data.pdb
+C:\POCProject\Member.Data\obj\Debug\net6.0\Member.Data.dll
+C:\POCProject\Member.Data\obj\Debug\net6.0\ref\Member.Data.dll
+C:\POCProject\Member.Data\obj\Debug\net6.0\Member.Data.pdb
