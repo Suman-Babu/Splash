@@ -10,3 +10,15 @@ C:\POCProject\Member.Data\bin\Debug\net6.0\Member.Data.pdb
 C:\POCProject\Member.Data\obj\Debug\net6.0\Member.Data.dll
 C:\POCProject\Member.Data\obj\Debug\net6.0\ref\Member.Data.dll
 C:\POCProject\Member.Data\obj\Debug\net6.0\Member.Data.pdb
+C:\Splash\Member.Data\bin\Debug\net6.0\Member.Data.deps.json
+C:\Splash\Member.Data\bin\Debug\net6.0\Member.Data.dll
+C:\Splash\Member.Data\bin\Debug\net6.0\ref\Member.Data.dll
+C:\Splash\Member.Data\bin\Debug\net6.0\Member.Data.pdb
+C:\Splash\Member.Data\obj\Debug\net6.0\Member.Data.csproj.AssemblyReference.cache
+C:\Splash\Member.Data\obj\Debug\net6.0\Member.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Splash\Member.Data\obj\Debug\net6.0\Member.Data.AssemblyInfoInputs.cache
+C:\Splash\Member.Data\obj\Debug\net6.0\Member.Data.AssemblyInfo.cs
+C:\Splash\Member.Data\obj\Debug\net6.0\Member.Data.csproj.CoreCompileInputs.cache
+C:\Splash\Member.Data\obj\Debug\net6.0\Member.Data.dll
+C:\Splash\Member.Data\obj\Debug\net6.0\ref\Member.Data.dll
+C:\Splash\Member.Data\obj\Debug\net6.0\Member.Data.pdb

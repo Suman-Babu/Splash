@@ -842,11 +842,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\POCProject\\POCProject\\Splash.csproj",
+      "projectUniqueName": "C:\\Splash\\Splash\\Splash.csproj",
       "projectName": "Splash",
-      "projectPath": "C:\\POCProject\\POCProject\\Splash.csproj",
+      "projectPath": "C:\\Splash\\Splash\\Splash.csproj",
       "packagesPath": "C:\\Users\\Bindu_Gangalam\\.nuget\\packages\\",
-      "outputPath": "C:\\POCProject\\POCProject\\obj\\",
+      "outputPath": "C:\\Splash\\Splash\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bindu_Gangalam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -863,8 +863,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\POCProject\\Member.Data\\Member.Data.csproj": {
-              "projectPath": "C:\\POCProject\\Member.Data\\Member.Data.csproj"
+            "C:\\Splash\\Member.Data\\Member.Data.csproj": {
+              "projectPath": "C:\\Splash\\Member.Data\\Member.Data.csproj"
             }
           }
         }

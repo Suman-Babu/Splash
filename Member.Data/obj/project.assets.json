@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\POCProject\\Member.Data\\Member.Data.csproj",
+      "projectUniqueName": "C:\\Splash\\Member.Data\\Member.Data.csproj",
       "projectName": "Member.Data",
-      "projectPath": "C:\\POCProject\\Member.Data\\Member.Data.csproj",
+      "projectPath": "C:\\Splash\\Member.Data\\Member.Data.csproj",
       "packagesPath": "C:\\Users\\Bindu_Gangalam\\.nuget\\packages\\",
-      "outputPath": "C:\\POCProject\\Member.Data\\obj\\",
+      "outputPath": "C:\\Splash\\Member.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bindu_Gangalam\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Member.Data.Repository;
 using Member.Data.Interface;
 using Member.Data.Models;
+using Splash.Services;
 using Microsoft.Extensions.Configuration;
 
 namespace POCProject.Controllers
@@ -11,36 +12,36 @@ namespace POCProject.Controllers
     public class UserController : ControllerBase
     {
         private readonly IConfiguration _config;
+        private UserService usersService = new UserService();
 
         public UserController(IConfiguration config)
         {
             _config = config;
         }
-        private IUser users = new UserRepository();
 
         [Route("api/GetAllUsers")]
         [HttpGet]
         public async Task<ActionResult<List<User>>> GetAllUsers()
         {
-            var x = await users.GetAllUsers();
-            return x;
+            var users = await usersService.GetAllUsers();
+            return users;
         }
 
         [HttpGet]
         [Route("api/GetUserById/{id}")]
         public async Task<ActionResult<User>> GetUserById(int id)
         {
-            var x = await users.GetUserById(id);
+            var x = await usersService.GetUserById(id);
             return x;
         }
         [Route("api/CreateUser")]
         [HttpPost]
         public async Task<ActionResult<List<User>>> CreateUser(User item)
         {
-            if (User == null)
+            if (item == null)
                 return BadRequest();
 
-            var usersData = await users.AddUser(item);
+            var usersData = await usersService.AddUser(item);
             return usersData;
         }
         [Route("api/UpdateUser/{id}")]
@@ -51,19 +52,19 @@ namespace POCProject.Controllers
             {
                 return BadRequest();
             }
-            var contactObj = await users.GetUserById(id);
+            var contactObj = await usersService.GetUserById(id);
             if (contactObj == null)
             {
                 return NotFound();
             }
-            var usersData = await users.UpdateUser(item);
+            var usersData = await usersService.UpdateUser(item);
             return usersData;
         }
         [HttpDelete]
         [Route("api/DeleteUser/{id}")]
         public async Task<ActionResult<List<User>>> DeleteUser(int id)
         {
-            var usersData = await users.DeleteUser(id);
+            var usersData = await usersService.DeleteUser(id);
             return usersData;
         }
         public string Index()
